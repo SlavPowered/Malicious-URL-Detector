@@ -1,0 +1,35 @@
+*{
+    /* background-color: #141824; */
+    color: white;
+}
+
+html{
+    border-radius: 5em;
+}
+
+body{
+    min-width: 200px;
+}
+.malicious{
+    background-color: red;
+}
+
+.safe{
+    background-color: rgb(5, 196, 5);
+}
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.noto-sans{
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
